@@ -68,40 +68,48 @@ entries:
       url: /gitlab.html
       output: web, pdf
 
-  - title: Installation
+  - title: ROS, Serializer
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: Rostopic integration
+      url: /rostopic.html
       output: web, pdf
 
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
+    - title: Django restapi frameworks
+      url: /djangorestapi.html
       output: web, pdf
 
-    - title: Install Jekyll on Windows
+    - title: Gitlabithub actions
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+    - title: pipeline, heroku, mailchimps
+      url: /heroku.html
+      output: web, pdf
+
+    - title: others
+      url: /others.html
+      output: web, pdf
+
+  - title: Django frameworks
     output: web, pdf
 
     folderitems:
-    - title: Pages
-      url: /mydoc_pages.html
+    - title: Oscar 
+      url: /oscar.html
       output: web, pdf
 
-    - title: Posts
-      url: /mydoc_posts.html
+    - title: Raspi
+      url: /raspi.html
       output: web, pdf
 
-    - title: Lists
-      url: /mydoc_lists.html
+    - title: Lora 
+      url: /lora.html
       output: web, pdf
 
-    - title: Conditional logic
-      url: /mydoc_conditional_logic.html
+    - title: Drone-gui
+      url: /dronegui.html
       output: web, pdf
 
     - title: Content reuse
@@ -120,48 +128,56 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Navigation
+  - title: Node frameworks
     output: web, pdf
 
     folderitems:
-    - title: Sidebar navigation
-      url: /mydoc_sidebar_navigation.html
+    - title: Django+Vue
+      url: /djangovue.html
       output: web, pdf
 
-    - title: YAML tutorial in the context of Jekyll
-      url: /mydoc_yaml_tutorial.html
+    - title: Weather app
+      url: /weather.html
       output: web, pdf
 
-    - title: Tags
-      url: /mydoc_tags.html
+    - title: Chat app
+      url: /chatapp.html
       output: web, pdf
 
-    - title: Series
-      url: /mydoc_series.html
+    - title: Bootstrap
+      url: /bootstrap.html
       output: web, pdf
 
-  - title: Formatting
+    - title: lightup.co.kr/blog
+      url: /lightup.html
+      output: web, pdf
+
+    - title: lightup.co.kr/admin
+      url: /lightupadmin.html
+      output: web, pdf
+
+  - title: Racing drones
     output: web, pdf
 
     folderitems:
-    - title: Tooltips
-      url: /mydoc_adding_tooltips.html
+    - title: DaLrC215
+      url: /dalrc.html
       output: web, pdf
 
-    - title: Alerts
-      url: /mydoc_alerts.html
+    - title: Dev-skyhero
+      url: /skyhero.html
       output: web, pdf
 
-    - title: Icons
-      url: /mydoc_icons.html
+    - title: MiniCp04
+      url: /minicp.html
       output: web, pdf
 
-    - title: Images
-      url: /mydoc_images.html
+    - title: Dev-Nazam 02
+      url: /devnazam.html
       output: web, pdf
 
-    - title: Code samples
-      url: /mydoc_code_samples.html
+    - title: Xugong
+      url: /xugong.html
       output: web, pdf
 
     - title: Labels
@@ -188,7 +204,7 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Handling reviews
+  - title: APM drones
     output: web, pdf
 
     folderitems:
