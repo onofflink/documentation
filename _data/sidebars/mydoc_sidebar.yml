@@ -208,35 +208,39 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Commenting on files
+    - title: pixhawk4
       url: /mydoc_commenting_on_files.html
       output: web, pdf
 
-#    - title: Git collaboration
-#      url: /mydoc_git_collaboration
-#      output: web, pdf
+    - title: Dev-Apmdr 01 / pixhawk lite 
+      url: /
+      output: web, pdf
 
-  - title: Publishing
+    - title: Cube black
+      url: /
+      output: web, pdf
+
+  - title: DJI drones
     output: web, pdf
 
     folderitems:
-    - title: Build arguments
+    - title: Quad wookong
       url: /mydoc_build_arguments.html
       output: web, pdf
 
-    - title: Themes
+    - title: S1000 wookong
       url: /mydoc_themes.html
       output: web, pdf
 
-    - title: Generating PDFs
+    - title: S1000 A2
       url: /mydoc_generating_pdfs.html
       output: web, pdf
 
-    - title: Help APIs and UI tooltips
+    - title: S900 wookong
       url: /mydoc_help_api.html
       output: web, pdf
 
-    - title: Search configuration
+    - title: Nazam
       url: /mydoc_search_configuration.html
       output: web, pdf
 
@@ -252,40 +256,64 @@ entries:
       url: /mydoc_publishing_github_pages.html
       output: web, pdf
 
-  - title: Special layouts
+  - title: Feature drones
     output: web, pdf
 
     folderitems:
-    - title: Knowledge-base layout
+    - title: Yuneec H
       url: /mydoc_kb_layout.html
       output: web, pdf
 
-    - title: Glossary layout
+    - title: Bebop Parrot
       url: /mydoc_glossary.html
       output: web, pdf
 
-    - title: FAQ layout
+    - title: Jetbot rover
       url: /mydoc_faq_layout.html
       output: web, pdf
 
-    - title: Shuffle layout
+    - title: AGX Xavier rover
       url: /mydoc_shuffle.html
       output: web, pdf
 
-  - title: Troubleshooting
+    - title: Vtol & flight data
+      url: /
+      output: web, pdf
+
+  - title: Schooling
     output: web, pdf
 
     folderitems:
 
-    - title: Troubleshooting
+    - title: My courses
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
-  - title: Tag archives
+    - title: Course overview
+      url: /
+      output: web, pdf
+
+    - title: Portfolio
+      url: /
+      output: web, pdf
+
+    - title: ncs-ML/DL
+      url: /
+      output: web, pdf
+
+    - title: C++
+      url: /
+      output: web, pdf
+
+    - title: Web-scraping
+      url: /
+      output: web, pdf
+
+  - title: Books
     output: web
     folderitems:
 
-    - title: Tag archives overview
+    - title: Fiction
       url: /mydoc_tag_archives_overview.html
       output: web
 
@@ -321,5 +349,25 @@ entries:
         - title: Troubleshooting pages
           url: /tag_troubleshooting.html
           output: web
+
+    - title: Web-dev-ops
+      url: /
+      output: web, pdf
+
+    - title: 
+      url: /
+      output: web, pdf
+
+    - title: 
+      url: /
+      output: web, pdf
+
+    - title: 
+      url: /
+      output: web, pdf
+
+    - title: 
+      url: /
+      output: web, pdf
 
 # Copyright 2021 Google LLC
