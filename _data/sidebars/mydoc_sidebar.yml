@@ -265,7 +265,7 @@ entries:
       output: web, pdf
 
     - title: Bebop Parrot
-      url: /mydoc_glossary.html
+      url: /mydoc_bebop_auto.html
       output: web, pdf
 
     - title: Jetbot rover
