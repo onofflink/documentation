@@ -1,3 +1,9 @@
+---
+title: Bebop ROS
+sidebar: mydoc_sidebar
+permalink: mydoc_bebop_auto.md
+---
+
 ****************************************************************************
 bebop_autonomy - ROS Driver for Parrot Bebop Drone (quadrocopter) 1.0 & 2.0
 ****************************************************************************
