@@ -2,6 +2,7 @@
 title: Bebop ROS
 sidebar: mydoc_sidebar
 permalink: mydoc_bebop_auto.md
+folder: mydoc
 ---
 
 ****************************************************************************
