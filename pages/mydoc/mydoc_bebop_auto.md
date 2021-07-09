@@ -3,7 +3,7 @@ title: bebop autonomous codes
 permalink: mydoc_bebop_auto.html
 sidebar: mydoc_sidebar
 tags: [bebop]
-last_updated: July 8, 2021
+last_updated: July 9, 2021
 toc: false
 folder: mydoc
 ---
