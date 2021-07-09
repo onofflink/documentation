@@ -49,23 +49,23 @@ entries:
     folderitems:
 
     - title: Ansible
-      url: /mydoc_release_notes_60.html
+      url: /mydoc_ansible.html
       output: web, pdf
 
     - title: Git webhook
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_webhook.html
       output: web, pdf
 
     - title: Bash pipeline
-      url: /bash-pipeline.html
+      url: /mydoc_pipeline.html
       output: web, pdf
 
     - title: Docker
-      url: /docker.html
+      url: /mydoc_docker.html
       output: web, pdf
 
     - title: Gitlab
-      url: /gitlab.html
+      url: /mydoc_gitlab.html
       output: web, pdf
 
   - title: ROS, Serializer
@@ -73,23 +73,23 @@ entries:
     folderitems:
 
     - title: Rostopic integration
-      url: /rostopic.html
+      url: /mydoc_rostopic.html
       output: web, pdf
 
     - title: Django restapi frameworks
-      url: /djangorestapi.html
+      url: /mydoc_djangorestapi.html
       output: web, pdf
 
     - title: Gitlabithub actions
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_actions.html
       output: web, pdf
 
     - title: pipeline, heroku, mailchimps
-      url: /heroku.html
+      url: /mydoc_heroku.html
       output: web, pdf
 
     - title: others
-      url: /others.html
+      url: /mydoc_others.html
       output: web, pdf
 
   - title: Django frameworks
@@ -97,19 +97,19 @@ entries:
 
     folderitems:
     - title: Oscar 
-      url: /oscar.html
+      url: /mydoc_oscar.html
       output: web, pdf
 
     - title: Raspi
-      url: /raspi.html
+      url: /mydoc_raspi.html
       output: web, pdf
 
     - title: Lora 
-      url: /lora.html
+      url: /mydoc_lora.html
       output: web, pdf
 
     - title: Drone-gui
-      url: /dronegui.html
+      url: /mydoc_dronegui.html
       output: web, pdf
 
     - title: Content reuse
@@ -133,27 +133,27 @@ entries:
 
     folderitems:
     - title: Django+Vue
-      url: /djangovue.html
+      url: /mydoc_djangovue.html
       output: web, pdf
 
     - title: Weather app
-      url: /weather.html
+      url: /mydoc_weather.html
       output: web, pdf
 
     - title: Chat app
-      url: /chatapp.html
+      url: /mydoc_chatapp.html
       output: web, pdf
 
     - title: Bootstrap
-      url: /bootstrap.html
+      url: /mydoc_bootstrap.html
       output: web, pdf
 
     - title: lightup.co.kr/blog
-      url: /lightup.html
+      url: /mydoc_lightup.html
       output: web, pdf
 
     - title: lightup.co.kr/admin
-      url: /lightupadmin.html
+      url: /mydoc_lightupadmin.html
       output: web, pdf
 
   - title: Racing drones
@@ -161,23 +161,23 @@ entries:
 
     folderitems:
     - title: DaLrC215
-      url: /dalrc.html
+      url: /mydoc_dalrc.html
       output: web, pdf
 
     - title: Dev-skyhero
-      url: /skyhero.html
+      url: /mydoc_skyhero.html
       output: web, pdf
 
     - title: MiniCp04
-      url: /minicp.html
+      url: /mydoc_minicp.html
       output: web, pdf
 
     - title: Dev-Nazam 02
-      url: /devnazam.html
+      url: /mydoc_devnazam.html
       output: web, pdf
 
     - title: Xugong
-      url: /xugong.html
+      url: /mydoc_xugong.html
       output: web, pdf
 
     - title: Labels
