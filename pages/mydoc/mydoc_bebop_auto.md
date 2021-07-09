@@ -1,9 +1,14 @@
 ---
-title: Bebop ROS
+title: bebop autonomous codes
+permalink: mydoc_bebop_auto.html
 sidebar: mydoc_sidebar
-permalink: mydoc_bebop_auto.md
+tags: [bebop]
+last_updated: July 8, 2021
+toc: false
 folder: mydoc
 ---
+
+
 
 ****************************************************************************
 bebop_autonomy - ROS Driver for Parrot Bebop Drone (quadrocopter) 1.0 & 2.0
