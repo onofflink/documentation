@@ -1,3 +1,14 @@
+---
+title: Yuneec experience
+tags: [feature_drone, realsense]
+last_updated: July 10, 2021
+keywords: drone improvement
+summary: "yuneec"
+sidebar: mydoc_sidebar
+permalink: mydoc_yuneec.html
+folder: mydoc
+---
+
 ## Yuneec H and Intel Intellisense sensors
 
 |  |  |  |
