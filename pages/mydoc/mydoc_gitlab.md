@@ -1,3 +1,15 @@
+---
+title: self-managed gitlab
+tags: [git, github, gitlab, data ]
+last_updated: July 10, 2021
+keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_gitlab.html
+folder: mydoc
+---
+
+
 ## Gitlab
 [link](https://eggs.or.kr)
 

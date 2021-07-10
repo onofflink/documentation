@@ -1,3 +1,14 @@
+---
+title: docker learning curve
+tags: [docker ]
+last_updated: July 10, 2021
+keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_docker.html
+folder: mydoc
+---
+
 ## Docker
 
 I've been anxious to master this new trendy skill and had a couple of tutors even, but I realized that in all I should practice in real-life rather than trying to learn from a tutor. 
@@ -27,45 +38,46 @@ I've been anxious to master this new trendy skill and had a couple of tutors eve
 
 # Table of Contents
 
-1.  [Task 1](#org24deff6)
-    1.  [Install Docker on Ubuntu](#orga28590e)
-        1.  [Install dependencies](#orgaf5c9e1)
-        2.  [Add Docker&rsquo;s GPG Key](#org75515c6)
-        3.  [Add repository](#orgf22b3a4)
-        4.  [Install Docker](#org3754c60)
-    2.  [Create an user defined bridge network with a custom subnet](#org2799de2)
-    3.  [Run a container with a webUI](#org877bc55) [//]:<> "how does it work?"
-    4.  [Docker Volumes](#orge36380f)
-    5.  [**Docker Compose**](#orgfef50e4)
-        1.  [Install Docker Compose](#orga049c61)
-        2.  [Make the binary executable](#org1cf8e39)
-        3.  [Deploy Nextcloud and Postgres using Docker Compose](#org68bbf72)
-2.  [Task 2](#orgdb87a71)
-    1.  [Run a webserver with ports 80 and 443 bound to the container](#orgdc02d16)
-    2.  [**Fetch SSL Certificates & Redirect**](#org4983b53)
-        1.  [SSL](#org7ab7400)
-        2.  [Redirection](#org4baf811)
-    3.  [Serve the container through the webserver](#orge870986)
-        1.  [Configuration](#org8a4408b)
-        2.  [**Reload Nginx**](#org97aec67)
-    4.  [**Load b alancemultiple containers**](#org0e7779e)
-        1.  [Docker](#org446ce51)
-        2.  [Webserver](#orgc32151f)
-    5.  [**Get an extra IP&#x2026;**](#orgbeb8b82)
-        1.  [Docker](#org3762d40)
-        2.  [Nginx](#orga87e541)
-3.  [Task 3](#orgbfe4aeb)
-    1.  [Cortainer as the web frontend for container management](#orgb768218)
-        1.  [Tool](#org8d6632b)
-        2.  [Docker](#org7a72011)
-        3.  [Nginx](#orgb93114d)
-    2.  [Use monitoring tools like fail2ban to prevent abuse](#org1287288)
-        1.  [Tool](#org866846c)
-        2.  [Docker](#org8e1aece)
-    3.  [Setup auto-updates for your containers](#org609bbd1)
-        1.  [Tools](#org3ede4ac)
-        2.  [Docker](#org77da81d)
-    4.  [Think of and deploy (at least one) service that will be actually of use to you](#orgc9df158)
+- [Table of Contents](#table-of-contents)
+- [Task 1](#task-1)
+  - [Install Docker on Ubuntu](#install-docker-on-ubuntu)
+    - [Install dependencies](#install-dependencies)
+    - [Add Docker&rsquo;s GPG Key](#add-dockers-gpg-key)
+    - [Add repository](#add-repository)
+    - [Install Docker](#install-docker)
+  - [Create an user defined bridge network with a custom subnet](#create-an-user-defined-bridge-network-with-a-custom-subnet)
+  - [Run a container with a webUI](#run-a-container-with-a-webui)
+  - [Docker Volumes](#docker-volumes)
+  - [Docker Compose](#docker-compose)
+    - [Install Docker Compose](#install-docker-compose)
+    - [Make the binary executable](#make-the-binary-executable)
+    - [Deploy Nextcloud and Postgres using Docker Compose](#deploy-nextcloud-and-postgres-using-docker-compose)
+- [Task 2](#task-2)
+  - [Run a webserver with ports 80 and 443 bound to the container](#run-a-webserver-with-ports-80-and-443-bound-to-the-container)
+  - [Fetch SSL Certificates & Redirect](#fetch-ssl-certificates--redirect)
+    - [SSL](#ssl)
+    - [Redirection](#redirection)
+  - [Serve the container through the webserver](#serve-the-container-through-the-webserver)
+    - [Configuration](#configuration)
+    - [Reload Nginx](#reload-nginx)
+  - [Load balance multiple containers](#load-balance-multiple-containers)
+    - [Docker](#docker-1)
+    - [Webserver](#webserver)
+  - [Get an extra IP&#x2026;](#get-an-extra-ip)
+    - [Docker](#docker-2)
+    - [Nginx](#nginx)
+- [Task 3](#task-3)
+  - [Portainer as the web frontend for container management](#portainer-as-the-web-frontend-for-container-management)
+    - [Tool](#tool)
+    - [Docker](#docker-3)
+    - [Nginx](#nginx-1)
+  - [Use monitoring tools like fail2ban to prevent abuse](#use-monitoring-tools-like-fail2ban-to-prevent-abuse)
+    - [Tool](#tool-1)
+    - [Docker](#docker-4)
+  - [Setup auto-updates for your containers](#setup-auto-updates-for-your-containers)
+    - [Tools](#tools)
+    - [Docker](#docker-5)
+  - [Think of and deploy (at least one) service that will be actually of use to you](#think-of-and-deploy-at-least-one-service-that-will-be-actually-of-use-to-you)
 
 
 

@@ -1,3 +1,14 @@
+---
+title: DJI spreadwing series S1000 A2
+tags: [samtech,lora, hitech ]
+last_updated: July 10, 2021
+keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_s100a2.html
+folder: mydoc
+---
+
 ## DJI S1000 A2
 
 ### overview

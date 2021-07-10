@@ -1,3 +1,14 @@
+---
+title: DJI spread wing series S1000 Wookong
+tags: [samtech,lora, hitech ]
+last_updated: July 10, 2021
+keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_s1000.html
+folder: mydoc
+---
+
 
 ## DJI S1000 Wookong
 
