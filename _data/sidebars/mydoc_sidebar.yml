@@ -213,11 +213,11 @@ entries:
       output: web, pdf
 
     - title: Dev-Apmdr 01 / pixhawk lite 
-      url: /
+      url: /mydoc_apmdr.html
       output: web, pdf
 
     - title: Cube black
-      url: /
+      url: /mydoc_cube.html
       output: web, pdf
 
   - title: DJI drones
@@ -225,23 +225,23 @@ entries:
 
     folderitems:
     - title: Quad wookong
-      url: /mydoc_build_arguments.html
+      url: /mydoc_quad.html
       output: web, pdf
 
     - title: S1000 wookong
-      url: /mydoc_themes.html
+      url: /mydoc_s1000.html
       output: web, pdf
 
     - title: S1000 A2
-      url: /mydoc_generating_pdfs.html
+      url: /mydoc_s100a2.html
       output: web, pdf
 
     - title: S900 wookong
-      url: /mydoc_help_api.html
+      url: /mydoc_s900.html
       output: web, pdf
 
     - title: Nazam
-      url: /mydoc_search_configuration.html
+      url: /mydoc_nazam.html
       output: web, pdf
 
     - title: iTerm profiles
@@ -269,15 +269,15 @@ entries:
       output: web, pdf
 
     - title: Jetbot rover
-      url: /mydoc_faq_layout.html
+      url: /mydoc_jetbot.html
       output: web, pdf
 
     - title: AGX Xavier rover
-      url: /mydoc_shuffle.html
+      url: /mydoc_xavier.html
       output: web, pdf
 
     - title: Vtol & flight data
-      url: /
+      url: /mydoc_vtol.html
       output: web, pdf
 
   - title: Schooling
@@ -286,23 +286,23 @@ entries:
     folderitems:
 
     - title: My courses
-      url: /mydoc_troubleshooting.html
+      url: /mydoc_mycourse.html
       output: web, pdf
 
     - title: Course overview
-      url: /
+      url: /mydoc_coursedetail.html
       output: web, pdf
 
     - title: Portfolio
-      url: /
+      url: /mycourse_portfolio.html
       output: web, pdf
 
     - title: ncs-ML/DL
-      url: /
+      url: /mydoc_deeplearning.html
       output: web, pdf
 
     - title: C++
-      url: /
+      url: /mydoc_cplus.html
       output: web, pdf
 
     - title: Web-scraping
@@ -318,7 +318,7 @@ entries:
     folderitems:
 
     - title: Fiction
-      url: /mydoc_tag_archives_overview.html
+      url: /mydoc_fiction.html
       output: web
 
       subfolders:
