@@ -1,3 +1,14 @@
+---
+title: Racing drone, attck drone
+tags: [drone, swarming ]
+last_updated: July 10, 2021
+keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_dalrc.html
+folder: mydoc
+---
+
 ## Darlc215
 
 | Type  | Details | Type  | Details |

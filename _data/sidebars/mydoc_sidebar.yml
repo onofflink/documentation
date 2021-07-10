@@ -308,6 +308,10 @@ entries:
     - title: Web-scraping
       url: /
       output: web, pdf
+    
+    - title: Challenger project
+      url: /mydoc_challenger-project.html
+      output: web, pdf
 
   - title: Books
     output: web
@@ -366,8 +370,8 @@ entries:
       url: /
       output: web, pdf
 
-    - title: 
-      url: /
+    - title: drone companies
+      url: /mydoc_contact.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
