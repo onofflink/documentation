@@ -77,7 +77,7 @@ entries:
       output: web, pdf
 
     - title: Django restapi frameworks
-      url: /mydoc_djangorestapi.html
+      url: /mydoc_django.html
       output: web, pdf
 
     - title: Gitlabithub actions
