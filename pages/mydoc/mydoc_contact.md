@@ -1,3 +1,14 @@
+---
+title: Korea drone companies
+tags: [drone, job, resume ]
+last_updated: July 10, 2021
+keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_contact.html
+folder: mydoc
+---
+
 ## 2020년 국내 드론 제조 업체 현황(항공안전기술원)
 
 | 번호 | 업체명                                 | 모델명                                                             | 용도                                                    | 연락처                                 | 홈페이지                                                                                                               |
