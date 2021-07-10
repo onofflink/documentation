@@ -1,3 +1,14 @@
+---
+title: pixhawk apm racing drone
+tags: [drone, swarming, attack ]
+last_updated: July 10, 2021
+keywords: pixhawk, pixhawk4, ardupilot, qgroundcontrol, baseflight, missionplanner
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_apmdr.html
+folder: mydoc
+---
+
 ## Pixhawk lite
 
 | Type  | Details | Type  | Details |

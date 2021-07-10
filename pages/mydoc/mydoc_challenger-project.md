@@ -1,3 +1,14 @@
+---
+title: Challenger Engineering Project
+tags: [drone, vtol, gcs, payload ]
+last_updated: July 10, 2021
+keywords: contest, drone, vtol, gcs, payload
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_challenger-project.html
+folder: mydoc
+---
+
 # Challenger Engineering Project
 
 The following needs engineering and design;

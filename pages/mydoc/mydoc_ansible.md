@@ -1,3 +1,14 @@
+---
+title: contents deploy automation
+tags: [jiseoan, garuav, pawan ]
+last_updated: July 10, 2021
+keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
+summary: "summary."
+sidebar: mydoc_sidebar
+permalink: mydoc_ansible.html
+folder: mydoc
+---
+
 ## Ansible
 
 I have worked on this a couple of months as a part of deploy automation. Ansible is powerful as in itself is a network language affiliated with corporations such as Cisco, Amazon, Openstack, Azure and other paramount vendors in equal standing. 
