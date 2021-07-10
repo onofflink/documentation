@@ -177,7 +177,7 @@ entries:
       output: web, pdf
 
     - title: Xugong
-      url: /mydoc_xugong.html
+      url: /xugong.html
       output: web, pdf
 
     - title: Labels
@@ -261,7 +261,7 @@ entries:
 
     folderitems:
     - title: Yuneec H
-      url: /mydoc_kb_layout.html
+      url: /mydoc_yuneec.html
       output: web, pdf
 
     - title: Bebop Parrot
