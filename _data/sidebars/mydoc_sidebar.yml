@@ -109,7 +109,7 @@ entries:
       output: web, pdf
 
     - title: Drone-gui
-      url: /mydoc_dronegui.html
+      url: /mydoc_drone.html
       output: web, pdf
 
     - title: Content reuse
