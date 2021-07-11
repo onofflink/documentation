@@ -30,6 +30,16 @@ Some of the more prominent features of this theme include the following:
 * Tags for alternative navigation
 * Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
 
+
+## Dron ID research
+
+|단계 | 내용|
+|:----:| :----|
+|0|• 드론과 조종자 간의 거리가 최대 122m(400ft) 이내 가시권 내 비행 •14 CFR Part 101 준수하는 드론(일부 제외) •ATC 관리하에 운영되는 드론 •FAA에 의해 식별 및 추적이 면제되는 드론|
+|1 | •0 2 3 단계에 속하지 않는 드론 •14 CFR Part 107에 속하는 드론|
+|2|•비가시권 비행 드론 • 14 CFR Part 107에서 정의한 최대고도 이상에서비행하는 드론 • 보호되지 않는 사람에게 운영되는 드론|
+|3 |• 무게가 25kg 이상이고 비가시권 내 비행하는 드론 • IFR 조건에서 동작하는 드론 • 통제된 공역에서 비행하는 드론|
+
 ## Getting started
 
 To get started, see [Getting Started][index].
