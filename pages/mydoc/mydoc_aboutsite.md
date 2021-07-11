@@ -31,7 +31,7 @@ Some of the more prominent features of this theme include the following:
 * Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
 
 
-## Dron ID research
+## Dron ID research [pdf](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:daac1ad7-e106-49f5-8596-63d535fcdb63)
 
 - usa
   
