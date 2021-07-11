@@ -1,10 +1,10 @@
 ---
 title: bebop autonomous codes
-permalink: mydoc_bebop_auto.html
+permalink: mydoc_bebop.html
 sidebar: mydoc_sidebar
 tags: [bebop]
 last_updated: July 8, 2021
-toc: false
+toc: true
 folder: mydoc
 ---
 
