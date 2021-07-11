@@ -118,7 +118,7 @@ To detect white markings in the lane, first, we need to mask the rest part of th
 After making we need to detect lane lines. The technique used to detect mathematical shapes like this is called Hough Transform. Hough transformation can detect shapes like rectangles, circles, triangles, and lines.
 
 Code Download
-Please download the source code: [Lane Line Detection Project Code](https://github.com/aiegoo/portfolio/blob/e63238734ffabe51d105a928b58f3acfd20ba435/assets/lane-line-detection-project-code.zip)
+Please download the source code: [Lane Line Detection Project Code](https://github.com/aiegoo/portfolio/raw/assets/lane-line-detection-project-code.zip)
 
 Follow the below steps for lane line detection in Python:
 
