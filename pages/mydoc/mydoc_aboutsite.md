@@ -47,7 +47,7 @@ Some of the more prominent features of this theme include the following:
 | CL2 |• 최대 이륙 중량 4kg 이하 • 최대 비행 고도 120m 이하 • 최대 허용 전압 48V • ANSI/CTA-2063 기반 시리얼 번호 • 드론 등록 및 원격 식별 필요 • 지형 인식 시스템 장착 • 라이트 설치 • 드론 제어 링크 통신 단절 시  통신 복구 기능 또는 안전한 비행 종료 기능 필요 |
 | CL3 |• 최대 이륙 중량 25kg 이하 • 최대 비행 고도 120m 이하 • 최대 허용 전압 48V • ANSI/CTA-2063 기반 시리얼 번호 • 드론 등록 및 원격 식별 필요 • 지형 인식 시스템 장착 • 라이트 설치 • 드론 제어 링크 통신 단절 시 통신 복구 기능 또는 안전한 비행 종료 기능 필요|
 |CL4 | • 최대 이륙 중량 25kg 이하 • 최대 비행 고도 및 속도 제한 없음 | 
-## Getting started
+
 
 - EU
   
@@ -58,6 +58,8 @@ Some of the more prominent features of this theme include the following:
 | CL2 |• 최대 이륙 중량 4kg 이하 • 최대 비행 고도 120m 이하 • 최대 허용 전압 48V • ANSI/CTA-2063 기반 시리얼 번호 • 드론 등록 및 원격 식별 필요 • 지형 인식 시스템 장착 • 라이트 설치 • 드론 제어 링크 통신 단절 시  통신 복구 기능 또는 안전한 비행 종료 기능 필요 |
 | CL3 |• 최대 이륙 중량 25kg 이하 • 최대 비행 고도 120m 이하 • 최대 허용 전압 48V • ANSI/CTA-2063 기반 시리얼 번호 • 드론 등록 및 원격 식별 필요 • 지형 인식 시스템 장착 • 라이트 설치 • 드론 제어 링크 통신 단절 시 통신 복구 기능 또는 안전한 비행 종료 기능 필요|
 |CL4 | • 최대 이륙 중량 25kg 이하 • 최대 비행 고도 및 속도 제한 없음 | 
+
+
 ## Getting started
 
 To get started, see [Getting Started][index].
