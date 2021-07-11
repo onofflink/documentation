@@ -113,7 +113,7 @@ LED and Wizard status indicators
 
 |   |   |   |
 | --- | --- | --- |
-|  Main LED Status Indicator |  |
+|  Main LED Status Indicator |  |  |
 | - Initialization failed | Pulses red (3 times per second) | `initialization failed` ![image](https://user-images.githubusercontent.com/42961200/124340339-74e89b80-dbef-11eb-8962-d9c1b37ea50f.png)  |
 | - The Aircraft is in "Bind" Mode | Blinks orange very rapidly ( 10 times per second) | `Bind mode` ![image](https://user-images.githubusercontent.com/42961200/124340354-86ca3e80-dbef-11eb-99a0-89c88204195e.png) |
 | - The Aircraft is in a No-Fly Zone * * Please see the instrucion manual for more information regarding no-ﬂy zones |  Blinks red and whilte rapidly (5 times per second) | `no-fly zone` ![image](https://user-images.githubusercontent.com/42961200/124340359-96498780-dbef-11eb-95cd-43475f006769.png) |
