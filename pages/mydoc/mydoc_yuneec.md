@@ -120,7 +120,7 @@ LED and Wizard status indicators
 | - The Aircraft is in a No-Fly Zone * * Please see the instrucion manual for more information regarding no-ﬂy zones |  Blinks red and whilte rapidly (5 times per second) | `no-fly zone` ![image](https://user-images.githubusercontent.com/42961200/124340359-96498780-dbef-11eb-95cd-43475f006769.png) |
 | LED STATUS INDICATIONS BEFORE/DURING FLIGHT
 Main LED Status Indicator |  |
-} - The Aircraft is in Smart Mode with GPS lock | Glows sold green | `smart mode`  ![image](https://user-images.githubusercontent.com/42961200/124341135-4a014600-dbf5-11eb-8c8e-2b2414f0ffc9.png) |
+| - The Aircraft is in Smart Mode with GPS lock | Glows sold green | `smart mode`  ![image](https://user-images.githubusercontent.com/42961200/124341135-4a014600-dbf5-11eb-8c8e-2b2414f0ffc9.png) |
 | - The Aircraft is in Smart Mode without GPS lock | Blinks green (3 times per second then off (for 1 second)) | `S without gps`  ![image](https://user-images.githubusercontent.com/42961200/124341161-6e5d2280-dbf5-11eb-81a7-572389c671af.png) |
 | - The Aircraft is in Angle Mode with GPS lock | Glows solid purple | `Angle mode w/GPS` ![image](https://user-images.githubusercontent.com/42961200/124341174-8634a680-dbf5-11eb-9031-0dd5f0486aac.png) |
 | - The Aircraft is in Angle Mode without GPS lock | Blinks purple (3 times per second) then off (for 1 second) | `A without gps` ![image](https://user-images.githubusercontent.com/42961200/124341277-3b675e80-dbf6-11eb-9302-da9eae8cc717.png) |
