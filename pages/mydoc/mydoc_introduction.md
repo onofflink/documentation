@@ -12,7 +12,7 @@ for the last three months. They are purely based on the fictional ideas and them
 
 If credits I have inserted along the way are not enough to satisfy the standards of business or not fulfilling the required criteria, please allow me to apologize and I will do my best to amend and reflect or scrap away the questionable projects entirely. I owe everything to you and my teachers.
 
-On Mar 8, 2019 as I wrap up my NCS course and join Onofflink for my first stint in a real job. This is the beginning of my developer career. ~``
+On Mar 8, 2019 as I wrap up my NCS course and join Onofflink for my first stint in a real job. This is the beginning of my developer career.
 ## Survey of features
 
 Some of the more prominent features of this theme include the following:
