@@ -337,3 +337,15 @@ if __name__ == '__main__':
 ```
 
 ![lane-line-detection-ml-project-2](https://user-images.githubusercontent.com/42961200/125195892-b8e43c00-e292-11eb-90d5-3e30a0ca0ba8.gif)
+
+
+## Defect detection in ssd network in ultrasonic inspection
+[youtube](https://www.youtube.com/watch?v=PUT7HFGWuMM)
+
+[code](https://github.com/jasonngai01/UTPA_SSD)
+
+```txt
+This project aims to develop a system using convolutional neutral networks (CNNs) to detect defects in composite laminate materials automatically in order to increase ultrasonic inspection accuracy and efficiency. For inspectors, ultrasonic testing is a labor-intensive and time-consuming manual task. This approach improves their efficiency, accuracy and reduces their workload when when interpreting ultrasonic scanning images to identify defects. Discontinuities and defects in materials are usually not specific shapes, positions, and orientations. A Jetson TX2 Developer Kit runs in real time an image analysis function using a Single Shot MultiBox Detector (SSD) network and computer vision trained on images of delamination defects. The SSD network can also evaluate components and specimens with other methods, such as thermography inspection.
+```
+
+
