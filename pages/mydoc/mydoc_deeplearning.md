@@ -255,7 +255,7 @@ def process_image(image):
     result = weighted_img(line_image, image, α=0.8, β=1., λ=0.)
     return result
 
-## cleip the input video to frames to frames and get the resulant output video file
+## clip the input video to frames and get the resulant output video file
 first_frame = 1
 white_output = '__path_to_output_file__'
 clip1 = VideoFileClip("__path_to_input_file__")
