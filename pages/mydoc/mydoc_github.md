@@ -12,7 +12,7 @@ folder: mydoc
 ## Git glossary
 
 
-- git stash usage case 
+- git stash usage case [stackoverflow](https://stackoverflow.com/a/19003191)
   
 The easy answer to the easy question is git stash apply
 Just check out the branch you want your changes on, and then git stash apply. Then use git diff to see the result.
