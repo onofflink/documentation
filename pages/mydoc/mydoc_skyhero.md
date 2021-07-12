@@ -20,6 +20,8 @@ folder: mydoc
 | weight |  | class |  |
 | battery |  | air-time |  |
 | configurator |  |  last updated |   |
+
+
 ## FC 
 
 > Spacing f3 6dot
