@@ -2038,6 +2038,10 @@ pre code {
     padding-left: 15px
 }
 
+.col-md-9 {
+    margin-top: 50px;
+}
+
 .col-xs-1,
 .col-xs-10,
 .col-xs-11,
@@ -2441,6 +2445,9 @@ pre code {
     .col-md-8,
     .col-md-9 {
         float: left
+    }
+    .col-md-9 {
+        margin-top: 50px;
     }
     .col-md-12 {
         width: 100%
