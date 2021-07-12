@@ -111,19 +111,20 @@ LED and Wizard status indicators
 
 > LED STATUS INDICATIONS DURING STARTUP
 
+
 |   |   |   |
 | --- | --- | --- |
-|  Main LED Status Indicator |  |
+|  Main LED Status Indicator |  |  |
 | - Initialization failed | Pulses red (3 times per second) | `initialization failed` ![image](https://user-images.githubusercontent.com/42961200/124340339-74e89b80-dbef-11eb-8962-d9c1b37ea50f.png)  |
 | - The Aircraft is in "Bind" Mode | Blinks orange very rapidly ( 10 times per second) | `Bind mode` ![image](https://user-images.githubusercontent.com/42961200/124340354-86ca3e80-dbef-11eb-99a0-89c88204195e.png) |
 | - The Aircraft is in a No-Fly Zone * * Please see the instrucion manual for more information regarding no-ﬂy zones |  Blinks red and whilte rapidly (5 times per second) | `no-fly zone` ![image](https://user-images.githubusercontent.com/42961200/124340359-96498780-dbef-11eb-95cd-43475f006769.png) |
 | LED STATUS INDICATIONS BEFORE/DURING FLIGHT
 Main LED Status Indicator |  |
-} - The Aircraft is in Smart Mode with GPS lock | Glows sold green | `smart mode`  ![image](https://user-images.githubusercontent.com/42961200/124341135-4a014600-dbf5-11eb-8c8e-2b2414f0ffc9.png) |
+| - The Aircraft is in Smart Mode with GPS lock | Glows sold green | `smart mode`  ![image](https://user-images.githubusercontent.com/42961200/124341135-4a014600-dbf5-11eb-8c8e-2b2414f0ffc9.png) |
 | - The Aircraft is in Smart Mode without GPS lock | Blinks green (3 times per second then off (for 1 second)) | `S without gps`  ![image](https://user-images.githubusercontent.com/42961200/124341161-6e5d2280-dbf5-11eb-81a7-572389c671af.png) |
 | - The Aircraft is in Angle Mode with GPS lock | Glows solid purple | `Angle mode w/GPS` ![image](https://user-images.githubusercontent.com/42961200/124341174-8634a680-dbf5-11eb-9031-0dd5f0486aac.png) |
 | - The Aircraft is in Angle Mode without GPS lock | Blinks purple (3 times per second) then off (for 1 second) | `A without gps` ![image](https://user-images.githubusercontent.com/42961200/124341277-3b675e80-dbf6-11eb-9302-da9eae8cc717.png) |
-| - The Aircraft is in Home Mode | Blinks red rapidly (5 times per second) | 'Home mode`  ![image](https://user-images.githubusercontent.com/42961200/124341300-5a65f080-dbf6-11eb-943b-5246ac2befb5.png) | 
+| - The Aircraft is in Home Mode | Blinks red rapidly (5 times per second) | `Home mode ` ![image](https://user-images.githubusercontent.com/42961200/124341300-5a65f080-dbf6-11eb-943b-5246ac2befb5.png) | 
 | - Enter Task function | Blink green and purlple slowly ( 1 time per second) | `Task`  ![image](https://user-images.githubusercontent.com/42961200/124341323-779abf00-dbf6-11eb-88da-5d758218b7ed.png) |
 | - First Level low Voltage Battery Warning | Blink red, green and blue every 3 seconds | `Battery warning`  ![image](https://user-images.githubusercontent.com/42961200/124341338-8ed9ac80-dbf6-11eb-8e3e-ced8d4ba86be.png) |
 | - Second Level low Voltage Battery Warning | Blinks red, green and blue continuously | `Battery Alarm`  ![image](https://user-images.githubusercontent.com/42961200/124341361-add83e80-dbf6-11eb-86c6-6b4503bf25cb.png) |
@@ -137,9 +138,9 @@ Main LED Status Indicator |  |
 |  |  CGO3+ CAMERA LED STATUS INDICATIONS |  |
 | - Without T-card or T-card Memory Full |   | `T-card error`  ![image](https://user-images.githubusercontent.com/42961200/124344604-2a2a4c00-dc0e-11eb-9ef7-5254b5627ed1.png) |
 | - WiFi Error |   |   |
-| - WiFi Initialized|   |   |
+| - WiFi Initialized |   |   |
 | - WiFi Connected |   |    |
-| - Recording Video or Taking Still Photos |   |   |   |
+| - Recording Video or Taking Still Photos |   |   | 
 
 
 ![SmartSelect_20210704-073148_Acrobat for Samsung](https://user-images.githubusercontent.com/42961200/124368223-f72d9a00-dc99-11eb-9a98-d3ec1b60538a.jpg)

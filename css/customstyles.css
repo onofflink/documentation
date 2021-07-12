@@ -1183,6 +1183,11 @@ h4.panel-title {
         top: 0;
         border-width: 0 0 1px;
     }
+    .sticky {
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
     .navbar-collapse.collapse {
         display: none!important;
     }

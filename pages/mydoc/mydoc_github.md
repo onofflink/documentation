@@ -91,3 +91,7 @@ When you have changes, you have to git add (or "stage") them before commiting.
 Thus, when you ran git stash, you might have edited both files foo and zorg, but only staged one of those.
 So when you ask to get the stash back, it might be nice if it git adds the added things and does not git add the non-added things. That is, if you added foo but not zorg back before you did the stash, it might be nice to have that exact same setup. What was staged, should again be staged; what was modified but not staged, should again be modified but not staged.
 The --index flag to apply tries to set things up this way. If your work-tree is clean, this usually just works. If your work-tree already has stuff added, though, you can see how there might be some problems here. If you leave out --index, the apply operation does not attempt to preserve the whole staged/unstaged setup. Instead, it just invokes git's merge machinery, using the work-tree commit in the "stash bag". If you don't care about preserving staged/unstaged, leaving out --index makes it a lot easier for git stash apply to do its thing.
+
+
+## article reading list
+[diff changes]https://opensource.com/article/21/4/git-whatchanged}
