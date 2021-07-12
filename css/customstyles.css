@@ -1205,4 +1205,7 @@ h4.panel-title {
     .collapse.in{
         display:block !important;
     }
+    .navbar-brand .projectTitle {
+        font-size: 8px;
+    }
 }
