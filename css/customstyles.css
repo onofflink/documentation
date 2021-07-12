@@ -1209,3 +1209,9 @@ h4.panel-title {
         font-size: 8px;
     }
 }
+
+/* to fix the post-header getting under the topnav */
+
+.post-header {
+    margin-top: 50px;
+}
