@@ -34,7 +34,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: You are my best candidate!
 
 feedback_email: onofftony@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -72,7 +72,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
@@ -107,7 +107,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "This documentation site is intended to keep my past and current project details clearly in view for all visitors. Please howl at me to give you access and see the source wiki of this documentation, aiegoo/portfolio/wiki, where more sensitive contents are maintained. Hooray AI and AiIot gurus!"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
