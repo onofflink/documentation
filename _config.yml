@@ -42,10 +42,10 @@ feedback_email: onofftony@gmail.com
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-feedback_text: "Email Me"
+feedback_text: "portfolio wiki"
 # if you uncomment the previous line, it changes the Feedback text
 
-# feedback_link: "http://helpy.io/"
+feedback_link: "https://aiegoo.github.io/portfolio"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
