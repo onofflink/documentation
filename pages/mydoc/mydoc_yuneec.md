@@ -15,6 +15,15 @@ folder: mydoc
 | --- | --- |  --- |
 | [cgoet-manual](yuneeccgoet.pdf) | [mainteanance](Yuneec_Maintenance_Guide.pdf) | [pilot-manual](yuneecH-manual.pdf)
 
+| Type  | Details | Type  | Details |
+| :---: | ---  | :---: | ---  |
+| frame |  | FC |  |
+| motor |  | ESC |  |
+| RC  |  | mode |  |
+| weight |  | class |  |
+| battery |  | air-time |  |
+| configurator |  |  last updated |   |
+
 > Overview
 
 Thermal imaging is of high-value for Solar Inspection, Law Enforcement, Fire Fighting, Search & Rescue and Construction – the Typhoon H Thermal provides you with a low-cost, high-performance thermal system for these applications. The Yuneec Typhoon H Thermal combines the award winning Typhoon H Hexacopter with the CGOET thermal imaging and RGB camera. While the Typhoon H provides useful functions for commercial use, the CGOET provides not only thermal images, but also low-light capability, designed for monitoring in twilight or dark environments. Both thermal and RGB images are simultaneously recorded to separate streams for ease of playback and editing.

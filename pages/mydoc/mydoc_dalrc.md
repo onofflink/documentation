@@ -19,6 +19,8 @@ folder: mydoc
 | weight |  | class |  |
 | battery |  | air-time |  |
 | configurator |  |  last updated |   |
+
+
 ### highlight
 ![dalrc](images/dal/dalrc.jpg)
 ```

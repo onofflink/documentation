@@ -17,14 +17,16 @@ folder: mydoc
 | --- | --- |
 | [manual](s1000manual.pdf) | [training](dji-s1000-training.pdf) |
 
+
 | Type  | Details | Type  | Details |
-| :---: | ---  | :---: | ---  |
+| :---: | :---  | :---: | :---  |
 | frame |  | FC |  |
 | motor |  | ESC |  |
 | RC  |  | mode |  |
 | weight |  | class |  |
 | battery |  | air-time |  |
 | configurator |  |  last updated |   |
+
 ### checklist and indicator status
 - Servo power will shut off 3 seconds after the landing gear has reached its target position. 
 - When powering on the system, if the transmitter switch is in the [Upper] position, the LED will flash red quickly as a warning. Toggle the switch to the [Lower] position to continue. 
