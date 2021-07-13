@@ -315,10 +315,9 @@ entries:
 
   - title: Embedded Aiot projects
       output: web
-
       folderitems:
+
       subfolders:
- 
       - title: Raspberry Pi projects
         output: web
         subfolderitems:
