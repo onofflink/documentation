@@ -297,7 +297,23 @@ entries:
       url: /mycourse_portfolio.html
       output: web, pdf
 
-    - title: Embedded Aiot projects
+      - title: ncs-ML/DL
+      url: /mydoc_deeplearning.html
+      output: web, pdf
+
+    - title: C++
+      url: /mydoc_cplus.html
+      output: web, pdf
+
+    - title: Web-scraping
+      url: /
+      output: web, pdf
+    
+    - title: Challenger project
+      url: /mydoc_challenger-project.html
+      output: web, pdf
+
+  - title: Embedded Aiot projects
       output: web
       folderitems:
 
@@ -339,21 +355,6 @@ entries:
           url: /tag_troubleshooting.html
           output: web
 
-    - title: ncs-ML/DL
-      url: /mydoc_deeplearning.html
-      output: web, pdf
-
-    - title: C++
-      url: /mydoc_cplus.html
-      output: web, pdf
-
-    - title: Web-scraping
-      url: /
-      output: web, pdf
-    
-    - title: Challenger project
-      url: /mydoc_challenger-project.html
-      output: web, pdf
 
   - title: Books
     output: web
