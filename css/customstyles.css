@@ -1205,4 +1205,18 @@ h4.panel-title {
     .collapse.in{
         display:block !important;
     }
+    .navbar-brand .projectTitle {
+        font-size: 9px;
+        margin-left: 5px;
+    }
+    .navbar-brand .projectTitle {
+        
+        font-size: 9px;
+    }
+}
+
+/* to fix the post-header getting under the topnav */
+
+.post-header {
+    margin-top: 50px;
 }

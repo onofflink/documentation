@@ -297,9 +297,30 @@ entries:
       url: /mycourse_portfolio.html
       output: web, pdf
 
-    - title: Embedded Aiot projects
-      url: /mydoc_aiot.html
+      - title: ncs-ML/DL
+      url: /mydoc_deeplearning.html
+      output: web, pdf
+
+    - title: C++
+      url: /mydoc_cplus.html
+      output: web, pdf
+
+    - title: Web-scraping
+      url: /
+      output: web, pdf
+    
+    - title: Challenger project
+      url: /mydoc_challenger-project.html
+      output: web, pdf
+
+  - title: Embedded Aiot projects
       output: web
+      folderitems:
+        
+    - title: Overview 
+      url: /tag_aiotoverview.html
+      output: web, pdf
+
 
       subfolders:
       - title: Raspberry Pi projects
@@ -314,7 +335,7 @@ entries:
           url: /tag_lora_monitoring.html
           output: web
 
-    subfolders:
+      subfolders:
       - title: Intel Edison projects
         output: web
         subfolderitems:
@@ -339,21 +360,6 @@ entries:
           url: /tag_troubleshooting.html
           output: web
 
-    - title: ncs-ML/DL
-      url: /mydoc_deeplearning.html
-      output: web, pdf
-
-    - title: C++
-      url: /mydoc_cplus.html
-      output: web, pdf
-
-    - title: Web-scraping
-      url: /
-      output: web, pdf
-    
-    - title: Challenger project
-      url: /mydoc_challenger-project.html
-      output: web, pdf
 
 
   - title: Embedded Aiot projects
