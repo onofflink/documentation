@@ -25,19 +25,19 @@ Welcome to the portfolio wiki!
 ## 📫 Feel free to reach out
 
 <a href="https://www.linkedin.com/in/tonyleekorea/">
-  <img align="left" alt="tonylee's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="tonylee's LinkedIN" style="width:22px; align: left;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/tonyleekorea">
-  <img align="left" alt="tonylee | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="tonylee | Twitter" style="width:22px; align: left;" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 
 <br></br>
 <span></span>
 
-<a href="https://usinani.github.io/projectsgate/">
-  <img align="left" alt="📕 Visi Project's Blog" width="66px"
+<a href="https://usinani.github.io/documentation">
+  <img alt="📕 Visi Project's Blog" style="width:22px; align: left;" width="66px"
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 

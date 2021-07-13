@@ -1207,9 +1207,11 @@ h4.panel-title {
     }
     .navbar-brand .projectTitle {
         font-size: 9px;
-    }
-    .navbar-brand .projectTitle > a {
         margin-left: 5px;
+    }
+    .navbar-brand .projectTitle {
+        
+        font-size: 9px;
     }
 }
 
