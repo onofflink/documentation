@@ -314,7 +314,7 @@ entries:
           url: /tag_lora_monitoring.html
           output: web
 
-    subfolders:
+      subfolders:
       - title: Intel Edison projects
         output: web
         subfolderitems:
