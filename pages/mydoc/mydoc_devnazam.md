@@ -8,3 +8,16 @@ sidebar: mydoc_sidebar
 permalink: mydoc_devnazam.html
 folder: mydoc
 ---
+
+
+## Nazam
+
+| Type  | Details | Type  | Details |
+| :---: | ---  | :---: | ---  |
+| frame |  | FC |  |
+| motor |  | ESC |  |
+| RC  |  | mode |  |
+| weight |  | class |  |
+| battery |  | air-time |  |
+| configurator |  |  last updated |   |
+

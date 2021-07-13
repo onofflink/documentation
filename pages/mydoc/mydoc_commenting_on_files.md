@@ -10,6 +10,19 @@ permalink: mydoc_commenting_on_files.html
 folder: mydoc
 ---
 
+## pixhaw4
+
+| Type  | Details | Type  | Details |
+| :---: | ---  | :---: | ---  |
+| frame |  | FC |  |
+| motor |  | ESC |  |
+| RC  |  | mode |  |
+| weight |  | class |  |
+| battery |  | air-time |  |
+| configurator |  |  last updated |   |
+
+
+
 ## About the review process
 
 If you're using the doc as code approach, you might also consider using the same techniques for reviewing the doc as people use in reviewing code. This approach will involve using Github to edit the files.

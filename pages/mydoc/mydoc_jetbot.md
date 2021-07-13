@@ -11,3 +11,13 @@ folder: mydoc
 
 ## Jetbot Nvidia Nano RAPA project
 
+| Type  | Details | Type  | Details |
+| :---: | ---  | :---: | ---  |
+| frame |  | FC |  |
+| motor |  | ESC |  |
+| RC  |  | mode |  |
+| weight |  | class |  |
+| battery |  | air-time |  |
+| configurator |  |  last updated |   |
+
+
