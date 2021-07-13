@@ -305,9 +305,10 @@ entries:
       url: /mydoc_challenger-project.html
       output: web, pdf
 
-  - title: Embedded Aiot projects
-      output: web
-      folderitems:
+
+  - title: AIOT embedded projects
+    output: web
+    folderitems:
         
     - title: Overview 
       url: /tag_aiotoverview.html
