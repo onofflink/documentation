@@ -41,7 +41,6 @@ Welcome to the portfolio wiki!
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 
-<br></br>
 
 
 <h3 align="center">🛠️ Some of my digital Tools:</h3>
