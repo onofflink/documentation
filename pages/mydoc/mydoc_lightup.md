@@ -20,3 +20,5 @@ folder: mydoc
 [web-dev](https://github.com/aiegoo/olora-hitech)
 
 [web-project](https://github.com/aiegoo/olora-hitech/projects/1)
+
+[backend-dev](https://github.com/aiegoo/django-blog)
