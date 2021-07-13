@@ -297,6 +297,48 @@ entries:
       url: /mycourse_portfolio.html
       output: web, pdf
 
+    - title: Embedded Aiot projects
+      url: /mydoc_aiot.html
+      output: web
+
+      subfolders:
+      - title: Raspberry Pi projects
+        output: web
+        subfolderitems:
+
+        - title: Sensor serializer
+          url: /tag_serializer.html
+          output: web
+
+        - title: Lora monitoring system
+          url: /tag_lora_monitoring.html
+          output: web
+
+    subfolders:
+      - title: Intel Edison projects
+        output: web
+        subfolderitems:
+
+        - title: Detection serializer
+          url: /tag_sensor_detection.html
+          output: web
+
+        - title: Realsense drone
+          url: /tag_realsense.html
+          output: web
+
+        - title: Special layout pages
+          url: /tag_special_layouts.html
+          output: web
+
+        - title: Collaboration pages
+          url: /tag_collaboration.html
+          output: web
+
+        - title: Troubleshooting pages
+          url: /tag_troubleshooting.html
+          output: web
+
     - title: ncs-ML/DL
       url: /mydoc_deeplearning.html
       output: web, pdf
@@ -358,15 +400,15 @@ entries:
       url: /
       output: web, pdf
 
-    - title: 
+    - title: more to come
       url: /
       output: web, pdf
 
-    - title: 
+    - title: more to come
       url: /
       output: web, pdf
 
-    - title: 
+    - title: more to come
       url: /
       output: web, pdf
 
