@@ -9,6 +9,68 @@ summary: These brief instructions will help you get started quickly with the the
 
 {% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
 
+Welcome to the portfolio wiki!
+### Hello visitor, welcome to my Github portfolio wiki!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+## What do I do?
+### Enjoy Engineering, Researching and being a life amateur.
+
+- 🔭 I’m currently working on few meaningful things
+- 🌱 Currently learning the art of life-long learning
+- 🤔 I’m looking for help on figuring out how to help
+- 💬 Ask me about how can I help, else internet has you covered ;)
+- ⚡ Fun fact: 2021> I ran my first full lap around my neighborhood lake in 2 years
+
+## 📫 Feel free to reach out
+
+<a href="https://www.linkedin.com/in/tonyleekorea/">
+  <img align="left" alt="tonylee's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/tonyleekorea">
+  <img align="left" alt="tonylee | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+
+<br></br>
+<span></span>
+
+<a href="https://usinani.github.io/projectsgate/">
+  <img align="left" alt="📕 Visi Project's Blog" width="66px"
+ src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+
+<br></br>
+
+
+<h3 align="center">🛠️ Some of my digital Tools:</h3>
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<p align="center">
+
+<br></br>
+<span></span>
+
+![Engineers enjoy the numbers](https://profile-counter.glitch.me/{aiegoo}/count.svg)
+
+
+
+<h3 align="center">⌨GitHub Status:</h3>
+<a href="https://github.com/aiegoo">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aiegoo&theme=react&show_icons=true" style"max-width: 100%;" />
+</a>
+
+
+
+**aiegoo/portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
 ## Build the Theme
 
 Follow these instructions to build the theme.
