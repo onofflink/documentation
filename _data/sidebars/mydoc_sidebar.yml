@@ -314,7 +314,6 @@ entries:
       url: /tag_aiotoverview.html
       output: web, pdf
 
-
       subfolders:
       - title: Raspberry Pi projects
         output: web
