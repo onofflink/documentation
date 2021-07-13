@@ -39,5 +39,10 @@ sudo service postgresql start
 sudo netstat -plunt |grep postgres
 ```
 
+- django test permission issue
 
+```shell
+sudo -u postgres psql
+postgres=# => ALTER USER booktime CREATEDB;
+```
 
