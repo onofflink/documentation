@@ -293,10 +293,6 @@ entries:
       url: /mydoc_coursedetail.html
       output: web, pdf
 
-    - title: Portfolio
-      url: /mydoc_portfolio.html
-      output: web, pdf
-
       - title: ncs-ML/DL
       url: /mydoc_deeplearning.html
       output: web, pdf
