@@ -289,11 +289,7 @@ entries:
       url: /mydoc_mycourse.html
       output: web, pdf
 
-    - title: Course overview
-      url: /mydoc_coursedetail.html
-      output: web, pdf
-
-      - title: ncs-ML/DL
+    - title: ncs-ML/DL
       url: /mydoc_deeplearning.html
       output: web, pdf
 
