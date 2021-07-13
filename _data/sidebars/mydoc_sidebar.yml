@@ -294,7 +294,7 @@ entries:
       output: web, pdf
 
     - title: Portfolio
-      url: /mycourse_portfolio.html
+      url: /mydoc_portfolio.html
       output: web, pdf
 
       - title: ncs-ML/DL
