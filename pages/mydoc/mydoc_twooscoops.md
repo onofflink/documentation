@@ -38,3 +38,12 @@ $ django-admin <command> [options]
 $ manage.py <command> [options]
 $ python -m django <command> [options]
 ```
+
+
+### django and docker 
+
+>References for developing with Docker:
+
+- cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html
+- http://bit.ly/1dWnzVW Real Python article on Django and Docker Compose
+- dockerbook.com
