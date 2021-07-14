@@ -338,19 +338,6 @@ $ python -m django <command> [options]
 
 ---------
 
-* `Using cookiecutter-django with Google Cloud Storage`_ - Mar. 12, 2019
-* `cookiecutter-django with Nginx, Route 53 and ELB`_ - Feb. 12, 2018
-* `cookiecutter-django and Amazon RDS`_ - Feb. 7, 2018
-* `Using Cookiecutter to Jumpstart a Django Project on Windows with PyCharm`_ - May 19, 2017
-* `Exploring with Cookiecutter`_ - Dec. 3, 2016
-* `Introduction to Cookiecutter-Django`_ - Feb. 19, 2016
-* `Django and GitLab - Running Continuous Integration and tests with your FREE account`_ - May. 11, 2016
-* `Development and Deployment of Cookiecutter-Django on Fedora`_ - Jan. 18, 2016
-* `Development and Deployment of Cookiecutter-Django via Docker`_ - Dec. 29, 2015
-* `How to create a Django Application using Cookiecutter and Django 1.8`_ - Sept. 12, 2015
-
-Have a blog or online publication? Write about your cookiecutter-django tips and tricks, then send us a pull request with the link.
-
 .. _`Using cookiecutter-django with Google Cloud Storage`: https://ahhda.github.io/cloud/gce/django/2019/03/12/using-django-cookiecutter-cloud-storage.html
 .. _`cookiecutter-django with Nginx, Route 53 and ELB`: https://msaizar.com/blog/cookiecutter-django-nginx-route-53-and-elb/
 .. _`cookiecutter-django and Amazon RDS`: https://msaizar.com/blog/cookiecutter-django-and-amazon-rds/
