@@ -89,9 +89,9 @@ mysite/
 ├── <django_project_root>/
 ```
 
-`EADME.md, docs/ directory, manage.py, .gitignore, requirements.txt files, and other high-level files that are required for deployment and running the project.`
+`README.md, docs/ directory, manage.py, .gitignore, requirements.txt files, and other high-level files that are required for deployment and running the project.`
 
-`he settings module and base URLConf (urls.py) are placed. This must be a valid Python package containing an __init__.py module. `
+`The settings module and base URLConf (urls.py) are placed. This must be a valid Python package containing an __init__.py module. `
 
 ```diff
 + example of this
