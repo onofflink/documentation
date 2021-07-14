@@ -21,6 +21,29 @@ Also featured in this chapter.
 
 https://djangopackages.org/grids/g/cookiecu
 
+### default directory map
+
+```
+mysite/
+├── manage.py
+├── my_app
+│ ├── __init__.py
+│ ├── admin.py
+│ ├── apps.py
+│ ├── migrations
+│ │
+│ ├── models.py
+│ ├── tests.py
+│ └── views.py
+└── __init__.py
+└── mysite
+├── __init__.py
+├── asgi.py
+├── settings.py
+├── urls.py
+└── wsgi.py
+```
+
 
 ## Chapter 2
 
