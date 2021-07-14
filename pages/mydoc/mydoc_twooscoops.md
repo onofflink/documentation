@@ -9,6 +9,33 @@ permalink: mydoc_twoscoops.html
 folder: mydoc
 ---
 
+## chapter 4 Django app design
+
+### uncommon app names
+
+```
+scoops/
+├── api/
+├── behaviors.py
+├── constants.py
+├── context_processors.py
+├── decorators.py
+├── db/
+├── exceptions.py
+├── fields.py
+├── factories.py
+├── helpers.py
+├── managers.py
+├── middleware.py
+├── schema.py
+├── signals.py
+├── utils.py
+├── viewmixins.py
+```
+
+
+
+
 ## chapter 3 django project layout
 
 ### project templates
