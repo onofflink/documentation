@@ -44,6 +44,6 @@ $ python -m django <command> [options]
 
 >References for developing with Docker:
 
-- cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html
+- https://cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html
 - http://bit.ly/1dWnzVW Real Python article on Django and Docker Compose
-- dockerbook.com
+- https://dockerbook.com
