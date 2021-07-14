@@ -9,6 +9,18 @@ permalink: mydoc_twoscoops.html
 folder: mydoc
 ---
 
+## chapter 3 django project layout
+
+### project templates
+
+https://github.com/pydanny/cookiecutter-django
+Featured in this chapter.
+
+https://github.com/grantmcconnaughey/cookiecutter-django-vue-graphql-aws
+Also featured in this chapter.
+
+https://djangopackages.org/grids/g/cookiecu
+
 
 ## Chapter 2
 
