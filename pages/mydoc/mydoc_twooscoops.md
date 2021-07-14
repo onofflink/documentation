@@ -52,6 +52,8 @@ mysite/
 ├── <django_project_root>/
 ```
 
+`EADME.md, docs/ directory, manage.py, .gitignore, requirements.txt files, and other high-level files that are required for deployment and running the project.`
+
 ### cookiecutter map
 
 ```
