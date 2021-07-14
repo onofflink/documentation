@@ -14,6 +14,23 @@ folder: mydoc
 [ARTICLES](#articles)
 
 
+## chapter 5 settings and requirements files
+
+### settings 
+
+- details
+
+```diff
+settings/
+├── __init__.py
+├── base.py
+├── local.py
+├── staging.py
+├── test.py
+├── production.py
+```
+
+
 ## chapter 4 Django app design
 
 ### uncommon app names
