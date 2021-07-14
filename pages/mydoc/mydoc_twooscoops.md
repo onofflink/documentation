@@ -44,6 +44,14 @@ mysite/
 └── wsgi.py
 ```
 
+### Big map
+
+```
+<repository_root>/
+├── <configuration_root>/
+├── <django_project_root>/
+```
+
 
 ## Chapter 2
 
