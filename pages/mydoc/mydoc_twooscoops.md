@@ -21,7 +21,8 @@ directory will do the trick, installing the current directory as a package that 
 
 ```
   
-> django-admin and manage.py¶
+> django-admin and manage.py¶  
+> [link](https://docs.djangoproject.com/en/3.2/ref/django-admin/)
 django-admin is Django’s command-line utility for administrative tasks. This document outlines all it can do.
 
 In addition, manage.py is automatically created in each Django project. It does the same thing as django-admin but also sets the DJANGO_SETTINGS_MODULE environment variable so that it points to your project’s settings.py file.
