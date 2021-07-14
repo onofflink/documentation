@@ -54,6 +54,34 @@ mysite/
 
 `EADME.md, docs/ directory, manage.py, .gitignore, requirements.txt files, and other high-level files that are required for deployment and running the project.`
 
+`he settings module and base URLConf (urls.py) are placed. This must be a valid Python package containing an __init__.py module. `
+
+- example of this
+
+```
+icecreamratings_project
+├── config/
+│ ├── settings/
+│ ├── __init__.py
+│ ├── asgi.py
+│ ├── urls.py
+│ └── wsgi.py
+├── docs/
+├── icecreamratings/
+│ ├── media/
+│ ├── products/
+# Development only!
+│ ├── profiles/
+│ ├── ratings/
+│ ├── static/
+│ └── templates/
+├── .gitignore
+├── Makefile
+├── README.md
+├── manage.py
+└── requirements.txt
+```
+
 ### cookiecutter map
 
 ```
