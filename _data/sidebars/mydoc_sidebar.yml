@@ -447,8 +447,8 @@ entries:
       url: /
       output: web, pdf
 
-    - title: more to come
-      url: /
+    - title: two scoops of django
+      url: /mydoc_twoscoops.html
       output: web, pdf
 
     - title: more to come
