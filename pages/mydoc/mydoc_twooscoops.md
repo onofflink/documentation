@@ -56,7 +56,9 @@ mysite/
 
 `he settings module and base URLConf (urls.py) are placed. This must be a valid Python package containing an __init__.py module. `
 
-- example of this
+```diff
++ example of this
+```
 
 ```
 icecreamratings_project
