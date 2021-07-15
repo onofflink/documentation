@@ -51,7 +51,7 @@ feedback_link: "https://aiegoo.github.io/portfolio"
 highlighter: rouge
 # library used for syntax highlighting
 
-markdown: kramdown
+markdown: GFM
 kramdown:
  input: GFM
  auto_ids: true
