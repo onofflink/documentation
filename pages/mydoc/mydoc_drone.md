@@ -18,7 +18,7 @@ folder: mydoc
 <div markdown="1">
 
 | Simulator  | Details   | Front-end integration | Details|
-|---|---|---|---|
+| :---: | :--- | :---: | :---|
 | [![finalproject](https://github.com/aiegoo/finalproject/blob/master/misc/drone-logo.png)](https://youtu.be/E7Fl_TwEi_I) |Ardupilot and px4-based simulator | [![pf-frontend](https://github.com/aiegoo/finalproject/blob/master/misc/Artboard1.png)](https://youtu.be/8dkMs62s8-w) | Django, Postgresql, Vue, Axios and Kalman libraries. Live vehicle tracking |
 
 </div>
