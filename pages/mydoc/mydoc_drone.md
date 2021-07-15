@@ -31,3 +31,15 @@ folder: mydoc
 
 [software_installation](https://github.com/aiegoo/_mydrone/wiki/Software-Installation)
 
+
+{:color-style: style="background: black;"}
+{:color-style: style="color: white;"}
+{:text-style: style="font-weight: 800; text-decoration: underline;"}
+
+|:             Here's an Inline Attribute Lists example                :||||
+| ------- | ------------------ | -------------------- | ------------------ |
+|:       :|:  <div style="color: red;"> &lt; Normal HTML Block > </div> :|||
+| ^^      |   Red    {: .cls style="background: orange" }                |||
+| ^^ IALs |   Green  {: #id style="background: green; color: white" }    |||
+| ^^      |   Blue   {: style="background: blue; color: white" }         |||
+| ^^      |   Black  {: color-style text-style }                         |||
