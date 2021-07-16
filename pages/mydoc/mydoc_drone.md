@@ -32,6 +32,8 @@ folder: mydoc
 [software_installation](https://github.com/aiegoo/_mydrone/wiki/Software-Installation)
 
 
+`x = 4`{:.ruby}
+
 {:color-style: style="background: black;"}
 {:color-style: style="color: white;"}
 {:text-style: style="font-weight: 800; text-decoration: underline;"}
