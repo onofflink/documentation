@@ -39,6 +39,9 @@ Find the microswitch in between the USB ports on the expansion board. Switch the
   <img alt="greenlight" src="https://user-images.githubusercontent.com/42961200/125905066-0d28aee4-1806-427e-877c-0691ea9995b0.jpg" style="width: 200px; max-width: 30%;" />
 </div>
 
+- you are all set to rock!!
+![image](https://user-images.githubusercontent.com/42961200/125905918-442d84ce-33ac-4ccf-9d6b-46ad788509b2.png)
+
 {% include taglogic.html %}
 
 {% include links.html %}
