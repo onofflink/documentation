@@ -38,11 +38,6 @@ python manage.py shell --settings=config.settings.local
 
 ### uncommon app names
 
-### django service layer
-- https://www.b-list.org/weblog/2020/mar/16/no-service/
-- https://www.b-list.org/weblog/2020/mar/23/still-no-service/
-- https://www.dabapps.com/blog/django-models-and-encapsulation/
-
 <details> 
   <summary> click here to expand </summary>
 
@@ -68,6 +63,10 @@ scoops/
 
 </details>
 
+### django service layer
+- https://www.b-list.org/weblog/2020/mar/16/no-service/
+- https://www.b-list.org/weblog/2020/mar/23/still-no-service/
+- https://www.dabapps.com/blog/django-models-and-encapsulation/
 
 ## chapter 3 django project layout
 
