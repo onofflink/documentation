@@ -9,6 +9,10 @@ folder: tags
 
 ## links to download or for guides
 
+[arduino_guide](https://www.arduino.cc/en/guide/IntelEdison)
+
+[intel_forum](https://www.intel.com/content/www/us/en/support/products/84574/boards-and-kits/intel-edison-boards/intel-edison-board-for-arduino.html)
+
 [intel_yocto](https://downloadcenter.intel.com/download/26472/Intel-IoT-Developer-Kit-Installer-Files)
 
 [yocto_doc](read://https_www.yoctoproject.org/?url=https%3A%2F%2Fwww.yoctoproject.org%2Fdocs%2Fcurrent%2Fbrief-yoctoprojectqs%2Fbrief-yoctoprojectqs.html)
