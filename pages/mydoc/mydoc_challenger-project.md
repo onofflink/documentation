@@ -357,3 +357,23 @@ GCS provides live video feed integration right in the app. You can see either fu
 
 
 ![missionplanner](./images/challenger/missonplanner.jpg)
+
+{% raw %}Schooling pages:
+<ul>
+{% assign sorted_pages = site.pages | sort: 'title' %}
+{% for page in sorted_pages %}
+{% for tag in page.tags %}
+{% if tag == "getting_started" %}
+<li><a href="{{ page.url | remove: "/" }}">{{page.title}}</a></li>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>{% endraw %}
+
+Schooling pages:
+
+{% assign sorted_pages = site.pages | sort: 'title' %} {% for page in sorted_pages %} {% for tag in page.tags %} {% if tag == "schooling" %}
+{{page.title}}
+{% endif %} {% endfor %} {% endfor %}
+
+{% include links.html %}
