@@ -11,7 +11,7 @@ summary: These brief instructions will help you get started quickly with the the
 
 Welcome to the portfolio wiki!
 ### Hello visitor, welcome to my Github portfolio wiki
-<img src="http://i.imgur.com/pjmxrDI.gif" style="width:50px;">
+<img src="http://i.imgur.com/pjmxrDI.gif" style="width:450px;">
 
 ## What do I do?
 ### Enjoy Engineering, Researching and being a life amateur.
@@ -51,7 +51,7 @@ Welcome to the portfolio wiki!
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <p align="center">
 
-<br></br>
+
 <span></span>
 
 ![Engineers enjoy the numbers](https://profile-counter.glitch.me/{aiegoo}/count.svg)
