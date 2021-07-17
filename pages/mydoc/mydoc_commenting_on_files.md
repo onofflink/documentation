@@ -23,7 +23,6 @@ folder: mydoc
 
 ===============================================
 Brief Introduction to Experimental Platforms
-===============================================
 
 Platform Composition
 ------------------------
@@ -47,6 +46,7 @@ of the control algorithms, which is then compiled and uploaded to a Pixhawk
 autopilot.
 
 ![](https://rflysim.com/en/_images/Quan-ch3-Fig3.1.jpg)
+
     .. figure:: /images/Quan-ch3-Fig3.1.jpg
         :align: center
 
@@ -61,6 +61,9 @@ parameters from the Simulink-based simulation platform mentioned earlier. Both
 CopterSim and 3DDisplay must run on a computer with Windows OS (Win7
 or higher, x64). They are connected with the Pixhawk autopilot through a USB
 cable, thereby establishing a closed-loop control system for HIL simulations.
+
+
+![](https://rflysim.com/en/_images/Quan-ch3-Fig3.2.jpg)
 
     .. figure:: /images/Quan-ch3-Fig3.2.jpg
         :align: center
@@ -81,6 +84,8 @@ from the remote pilot on the ground. Further, the Pixhawk autopilot can
 also wirelessly connect with GCS through a pair of radio telemetry to exchange
 flight data and mission commands.
 
+![](https://rflysim.com/en/_images/Quan-ch3-Fig3.2.jpg)
+
     .. figure:: /images/Quan-ch3-Fig3.3.jpg
         :align: center
 
@@ -98,6 +103,9 @@ quadcopters, hexacopters, and coaxial octocopters. In this book, a small quadcop
 is chosen as an example to study its hardware system design, such as
 airframe design, propulsion system selection. Then, the control algorithms are
 designed for the resulting multicopter hardware system.
+
+![](![Uploading image.png…]()
+)
 
     .. figure:: /images/Quan-ch3-Fig3.4.jpg
         :align: center
