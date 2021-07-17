@@ -863,7 +863,7 @@ Fig. 3.66 LED experimental results (the left LED is blue, and the right is red)
 ### 6.2. Experimental Procedure of Attitude Control Experiment
 This section uses a well-designed attitude control system as an example to introduce the basic operation process of all the controller design experiments. This example is certainly complicated than the previous LED light control experiment.
 
-#### 6.2.1. Simulink-Based Algorithm Design and SIL Simulation
+#### * 6.2.1. Simulink-Based Algorithm Design and SIL Simulation
 (1). Step 1 : controller design
 
 Create a new Simulink file and design a multicopter attitude controller in it. For simplicity, an example of a well-designed attitude controller is available in “e03.DesignExpExp_AttitudeController.slx”. Open it, and the controller details are presented in Fig. 3.67. The design requirements for the controller are in the following.
@@ -925,7 +925,7 @@ Click the FlightGear-F450 shortcut on the Windows desktop to open FlightGear, an
 ../_images/Quan-ch4-Fig4.19.jpg
 Fig. 3.71 A quadcopter in FlightGear
 
-#### 6.2.2. Code Generation and Configuration
+#### * 6.2.2. Code Generation and Configuration
 (6). Step 6 : configuration of the code generation environment
 
 After finishing the SIL simulation in Simulink, copy the obtained controller subsystem to file “e03.DesignExpsExp3_BlankTemp.slx” (this file has been configured with all the settings required for code generation). Readers can also create a blank Simulink file and configure it according to Fig. 3.59.
@@ -957,7 +957,7 @@ Connect the computer to the Pixhawk autopilot with a USB cable, then use the “
 ../_images/Quan-ch4-Fig4.22.jpg
 Fig. 3.74 Upload firmware successfully
 
-#### 6.2.3. HIL Simulation
+#### * 6.2.3. HIL Simulation
 (10). Step 10 : hardware system connection
 
 As shown in Fig. 3.54, connect the RC receiver to Pixhawk with a three-color JR cable, then connect Pixhawk to the computer via a USB cable. At this point, readers can observe that the LED on Pixhawk lights up and blinks slowly, [2] the LED on the RC receiver is blue and white (this is for RadioLink and green light for Futaba receiver). Then, turn on the RC transmitter, readers can observe that the LED light on the Pixhawk blinks quickly for a few seconds, indicating that the RC transmitter data has been successfully received. If there is no change for the Pixhawk LED light, indicating that the connection between the RC transmitter and the receiver is not correct, readers should check and confirm the hardware connection.
@@ -980,7 +980,7 @@ Double-click the 3DDisplay shortcut on the desktop to open it. This software doe
 ../_images/Quan-ch4-Fig4.24.jpg
 Fig. 3.76 Multicopter 3DDisplay interface
 
-#### 6.2.4. Flight Test
+#### * 6.2.4. Flight Test
 (13). Step 13 : mount Pixhawk onto a multicopter airframe
 
 The multicopter used in the outdoor flight tests is an F450 quadcopter (see Fig. 3.77). The parameters of the multicopter are accurately measured and identified by the system identification methods to ensure that the multicopter simulation model is consistent with the dynamics of the real multicopter system. For outdoor flight tests, the airframe of Pixhawk should be changed from “HIL Quadcopter X” to “DJI Flame Wheel F450” in QGC, which is presented in Fig. 3.78. All sensors should also be calibrated in QGC.
