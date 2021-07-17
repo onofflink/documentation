@@ -564,7 +564,8 @@ The throttle stick (CH3) moves from the bottom position to the top position, and
 The roll stick (CH1) and the yaw stick (CH4) move from the left position to the right position, and the corresponding PWM values change from 1100 to 1900;
 The pitch stick (CH2) moves from the bottom position to the top position, and the corresponding PWM value changes from 1900 to 1100;
 The upper-left switch (CH5) and the upper-right switch (CH6) move from the top position (the farthest position from the user), middle position, and bottom position (the closest position from the user), and the corresponding PWM values change from 1100, 1500, to 1900.
-4.3. Method for Uploading Firmware Through QGC
+
+### 4.3. Method for Uploading Firmware Through QGC
 Find the QGroundControl icon on the desktop and open the QGC software , the software UI is presented in Fig. 3.44.
 
 ![image](https://user-images.githubusercontent.com/42961200/126034930-1b88c2d1-f457-4b61-a6e8-3e84e9a7e924.png)
