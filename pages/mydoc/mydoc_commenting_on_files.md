@@ -46,6 +46,7 @@ Pixhawk Support Package (PSP) toolbox can be used to generate C/C++ code
 of the control algorithms, which is then compiled and uploaded to a Pixhawk
 autopilot.
 
+![](https://rflysim.com/en/_images/Quan-ch3-Fig3.1.jpg)
     .. figure:: /images/Quan-ch3-Fig3.1.jpg
         :align: center
 
