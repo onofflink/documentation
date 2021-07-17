@@ -9,6 +9,8 @@ permalink: mydoc_twoscoops.html
 folder: mydoc
 ---
 
+<a href="tel:+821050446037">call my cell for text messages</a>
+
 [if any link not working, click here for details](#links)
 
 [ARTICLES](#articles)
