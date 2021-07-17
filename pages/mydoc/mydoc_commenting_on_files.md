@@ -24,7 +24,7 @@ folder: mydoc
 
 ### Brief Introduction to Experimental Platforms
 
-- Platform Composition
+### - Platform Composition
 ------------------------
 
 The experimental platform is a rapid development platform for multicopter control
@@ -118,7 +118,7 @@ designed for the resulting multicopter hardware system.
 This book encompasses video tutorials, PowerPoint files, and source code examples. 
 The topic is closely related to our previous book [#f8]_.
 
-- Platform Advantage
+### - Platform Advantage
 ----------------------
 
 This experimental platform provides interfaces for multicopter controller design in
