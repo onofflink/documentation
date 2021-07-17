@@ -84,7 +84,8 @@ from the remote pilot on the ground. Further, the Pixhawk autopilot can
 also wirelessly connect with GCS through a pair of radio telemetry to exchange
 flight data and mission commands.
 
-![](https://rflysim.com/en/_images/Quan-ch3-Fig3.2.jpg)
+
+![image](https://user-images.githubusercontent.com/42961200/126034081-5bfe5ebe-d879-462d-bafb-8d0868ac3ac7.png)
 
     .. figure:: /images/Quan-ch3-Fig3.3.jpg
         :align: center
@@ -104,8 +105,8 @@ is chosen as an example to study its hardware system design, such as
 airframe design, propulsion system selection. Then, the control algorithms are
 designed for the resulting multicopter hardware system.
 
-![](![Uploading image.png…]()
-)
+![](https://rflysim.com/en/_images/Quan-ch3-Fig3.4.jpg)
+
 
     .. figure:: /images/Quan-ch3-Fig3.4.jpg
         :align: center
