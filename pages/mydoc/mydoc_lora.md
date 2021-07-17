@@ -10,3 +10,21 @@ folder: mydoc
 ---
 
 ## Lora gateway and setup
+
+
+	((( Y )))
+	    |
+	    |
+	+- -|- - - - - - - - - - - - -+        xxxxxxxxxxxx          +--------+
+	|+--+-----------+     +------+|       xx x  x     xxx        |        |
+	||              |     |      ||      xx  Internet  xx        |        |
+	|| Concentrator |<----+ Host |<------xx     or    xx-------->|        |
+	||              | SPI |      ||      xx  Intranet  xx        | Server |
+	|+--------------+     +------+|       xxxx   x   xxxx        |        |
+	|   ^                    ^    |           xxxxxxxx           |        |
+	|   | PPS  +-----+  NMEA |    |                              |        |
+	|   +------| GPS |-------+    |                              +--------+
+	|          +-----+            |
+	|                             |
+	|            Gateway          |
+	+- - - - - - - - - - - - - - -+
