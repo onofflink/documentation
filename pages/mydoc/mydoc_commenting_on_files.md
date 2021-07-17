@@ -21,8 +21,8 @@ folder: mydoc
 | battery |  | air-time |  |
 | configurator |  |  last updated |   |
 
-===============================================
-Brief Introduction to Experimental Platforms
+
+## Brief Introduction to Experimental Platforms
 
 Platform Composition
 ------------------------
