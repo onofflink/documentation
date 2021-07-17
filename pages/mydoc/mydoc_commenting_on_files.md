@@ -729,7 +729,7 @@ Notes
 ### 6.1. Experimental Procedure for LED Control Experiment
 The flashing frequency and color of the LED on the Pixhawk hardware can be controlled by designing controller in Simulink. This section takes a simple LED light control experiment [1] as an example to introduce the operation process of the hardware and software components of the experimental platform released with this book.
 
-#### 6.1.1. Experimental Objective
+#### 🥇 6.1.1. Experimental Objective
 As shown in Fig. 3.54, use two channels from CH1 to CH5 of the RC transmitter to control the LED light on Pixhawk in two different colors and two different modes.
 
 ![image](https://user-images.githubusercontent.com/42961200/126037692-b22fb24f-cd94-457c-a49b-69c99d68982a.png)
@@ -737,7 +737,7 @@ As shown in Fig. 3.54, use two channels from CH1 to CH5 of the RC transmitter to
 ../_images/Quan-ch4-Fig4.2.jpg
 Fig. 3.54 Hardware connection of LED control experiment
 
-#### 6.1.2. Experimental Procedure
+#### 🥇 6.1.2. Experimental Procedure
 The experiment uses the “RGB_LED” module in the PSP toolbox introduced in the previous chapter (see Fig. 3.55) to control the LED light on Pixhawk.
 
 (1). Create and open a new Simulink model file. As shown in Fig. 3.55, find the “RGB_LED” module in the “Pixhawk Target Blocks” toolbox, which is in the “Library Browser” of Simulink, and drag it to the new created Simulink file. The RC transmitter module “input_rc” in Fig. 3.55 is also dragged into the Simulink as the input signals to control the LED light. A Simulink example file completing the whole process of configuration is available in “e02.PSPOfficialExpspx4demo_input_rc.slx”.
@@ -780,7 +780,7 @@ Fig. 3.56 LED controller with an RC transmitter
 
 2). Use the CH4 channel of the RC transmitter to change the color of the LED light. When CH4>1500, the “Color” port receives an “RGBLED_COLOR_ENUM.COLOR_RED” variable corresponding to red color; when CH4≤1500, the “Color” port receives an “RGBLED_COLOR_ENUM. COLOR_BLUE” variable corresponding to blue color.
 
-#### 6.1.3. Controller Code Generation and Firmware Uploading
+#### 🥇 6.1.3. Controller Code Generation and Firmware Uploading
 (1). For MATLAB 2017b–2019a, as shown in Fig. 3.57, click the “Simulation”—“Model Configuration Parameters” option on the Simulink menu bar to enter the Simulink setting dialog; for MATLAB 2019b and above, click the “Settings” button. The obtained Simulink setting window is presented in Fig. 3.58.
 
 ![image](https://user-images.githubusercontent.com/42961200/126037655-2466381f-22ab-4d03-ae39-1154e157ce6d.png)
@@ -844,7 +844,7 @@ Fig. 3.64 Simulink firmware upload menu
 ../_images/Quan-ch4-Fig4.13.jpg
 Fig. 3.65 Firmware is successfully uploaded
 
-#### 6.1.4. Experimental Result
+#### 🥇 6.1.4. Experimental Result
 By default, when the RC transmitter does nothing, the LED light is slowly blinking in blue. As shown in Fig. 3.66, do the following steps to verify the experimental results.
 
 (1). When the left-hand stick of the RC transmitter shown in Fig. 3.54 is placed in the upper-right position (CH3>1500 and CH4>1500), the LED light on Pixhawk is quickly blinking in blue.
