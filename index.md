@@ -33,10 +33,10 @@ Welcome to the portfolio wiki!
 </a>
 
 
-<br></br>
+<br>
 <span></span>
 
-<a href="https://usinani.github.io/documentation">
+<a href="https://aiegoo.github.io/resume">
   <img alt="📕 Visi Project's Blog" style="width:22px; align: left;" width="66px"
  src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
