@@ -53,9 +53,8 @@ Welcome to the portfolio wiki!
 <p align="center">
 
 
-<span></span>
-
-![Engineers enjoy the numbers](https://profile-counter.glitch.me/{aiegoo}/count.svg)
+  
+![Engineer](https://profile-counter.glitch.me/{aiegoo}/count.svg)
 
 
 
@@ -63,12 +62,13 @@ Welcome to the portfolio wiki!
 <a href="https://github.com/aiegoo">
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aiegoo&theme=react&show_icons=true" style"max-width: 100%;" />
+  </p>
 </a>
 
 
 
 **aiegoo/portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 
 ## Build the Theme
