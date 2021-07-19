@@ -38,8 +38,7 @@ Welcome to the portfolio wiki!
 <span></span>
 
 <a href="https://aiegoo.github.io/resume">
-  <img alt="📕 Visi Project's Blog" style="width:22px; align: left;" width="66px"
- src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  <img alt="📕 Visi Project's Blog" style="width:22px; align: left;" width="66px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 
 
