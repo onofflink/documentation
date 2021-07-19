@@ -59,7 +59,7 @@ Welcome to the portfolio wiki!
 <h3 align="center"><a href="https://github.com/aiegoo">⌨GitHub Status:</a></h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aiegoo&theme=react&show_icons=true" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aiegoo&theme=react&show_icons=true" style="max-width: 100%;" />
   </p>
 
 
