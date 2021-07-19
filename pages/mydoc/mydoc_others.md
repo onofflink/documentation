@@ -10,3 +10,7 @@ folder: mydoc
 ---
 
 ## Other ROS learning curves
+
+## Next-cloud
+
+### [setup_instruction](https://blog.ssdnodes.com/blog/installing-nextcloud-docker/)
