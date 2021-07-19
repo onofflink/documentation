@@ -34,8 +34,7 @@ Welcome to the portfolio wiki!
 </a>
 
 
-<br>
-<span></span>
+
 
 <a href="https://aiegoo.github.io/resume">
   <img alt="📕 Visi Project's Blog" style="width:22px; align: left;" width="66px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
@@ -46,10 +45,10 @@ Welcome to the portfolio wiki!
 <h3 align="center">🛠️ Some of my digital Tools:</h3>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<p align="center">
+
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<p align="center">
+</p>
 
 
   
