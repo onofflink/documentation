@@ -51,7 +51,7 @@ IDE  with  functions similar to those of Microsoft Visual Studio.
 #### (6) QGroundControl (QGC) — Ground Control Station
 It  is  used  to  perform  the  pre-flight  tasks  (e.g.,  sensor calibration and parameter tuning) for the Pixhawk autopilot before the multicopter takes off. The QGC is also used to receive the light states and send the control commands of the  multicopter  through  wireless  radio  telemetry  during flight tests.
 
-🔨 `I have a mag calibration issue especially with nose-down and belly-up position` I have a discusstion thread on this issue [px4-autopilot](https://github.com/PX4/PX4-Autopilot/issues/17546)
+🔨 `I have a mag calibration issue especially with nose-down and belly-up position` Check this discusstion thread on the same issue [px4-autopilot](https://github.com/PX4/PX4-Autopilot/issues/17546)
 
 #### (7) CopterSim—Real-Time Motion Simulation Software
 It is a real-time motion simulation software developed for the Pixhawk/PX4 autopilot system. Readers can configure multicopter  models  in  CopterSim,  and  connect  it  to  the Pixhawk autopilot via the USB serial port to achieve indoor HIL simulations.
@@ -98,7 +98,7 @@ Fig. 3.2b). The simulation model of CopterSim is obtained by importing
 parameters from the Simulink-based simulation platform mentioned earlier. Both
 CopterSim and 3DDisplay must run on a computer with Windows OS (Win7
 or higher, x64). They are connected with the Pixhawk autopilot through a USB
-cable, thereby establishing a closed-loop control system for HIL simulations.
+cable, thereby establishing a closed-loop control system for HIL simulations.imulation model of CopterSim is obtained by importing parameters from the Simulink-based simulation pl
 
 
 ![](https://rflysim.com/en/_images/Quan-ch3-Fig3.2.jpg)
