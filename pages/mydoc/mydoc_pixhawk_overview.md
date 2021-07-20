@@ -10,3 +10,7 @@ folder: mydoc
 ---
 
 ## Pixhawk overview
+
+![pixhawk_models](https://user-images.githubusercontent.com/42961200/126268541-5888e659-4609-418e-8212-f4a4d606d1af.png)
+
+
