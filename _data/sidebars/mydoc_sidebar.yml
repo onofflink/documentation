@@ -209,8 +209,21 @@ entries:
 
     folderitems:
     - title: pixhawk4
-      url: /mydoc_commenting_on_files.html
+      url: /mydoc_pixhwak_overview.html
       output: web, pdf
+
+      subfolders:
+      - title: rFlyeval and CopterSim
+        output: web
+        subfolderitems:
+
+        - title: Instrucdtions && documentation
+          url: /mydoc_commenting_on_files.html
+          output: web
+
+        - title: Implementation with Pixhawk Cube
+          url: /tag_rfly_cube.html
+          output: web
 
     - title: Dev-Apmdr 01 / pixhawk lite 
       url: /mydoc_apmdr.html
