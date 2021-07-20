@@ -1,7 +1,7 @@
 ---
 title: Pixhawk 4
-tags: [samtech,lora, hitech ]
-last_updated: July 10, 2021
+tags: [drone, school ]
+last_updated: July 21, 2021
 keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips
 summary: "summary."
 sidebar: mydoc_sidebar
@@ -10,6 +10,18 @@ folder: mydoc
 ---
 
 ## Pixhawk4 RAPA drone project
+
+
+| Type  | Details | Type  | Details |
+| :---: | ---  | :---: | ---  |
+| frame |  | FC |  |
+| motor |  | ESC |  |
+| RC  |  | mode |  |
+| weight |  | class |  |
+| battery |  | air-time |  |
+| configurator |  |  last updated |   |
+
+
 
 |  |  |
 | --- | --- |

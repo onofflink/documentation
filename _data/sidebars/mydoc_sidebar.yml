@@ -209,7 +209,7 @@ entries:
 
     folderitems:
     - title: pixhawk4
-      url: /mydoc_pixhwak_overview.html
+      url: /mydoc_pixhwak4.html
       output: web, pdf
 
       subfolders:
