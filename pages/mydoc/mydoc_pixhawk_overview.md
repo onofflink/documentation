@@ -1,5 +1,5 @@
 ---
-title: Pixhawk
+title: Pixhawk overview
 tags: [drone, school ]
 last_updated: July 21, 2021
 keywords: API, content API, UI text, inline help, context-sensitive help, popovers, tooltips

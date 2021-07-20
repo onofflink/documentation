@@ -213,15 +213,15 @@ entries:
       output: web, pdf
 
       subfolders:
-      - title: rFlyeval and CopterSim
+      - title: rFlyeval CopterSim
         output: web
         subfolderitems:
 
-        - title: Instrucdtions && documentation
+        - title: Instrucdtions&&documentation
           url: /mydoc_commenting_on_files.html
           output: web
 
-        - title: Implementation with Pixhawk Cube
+        - title: Implementating Pixhawk Cube
           url: /tag_rfly_cube.html
           output: web
 
